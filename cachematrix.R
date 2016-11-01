@@ -22,8 +22,6 @@ makeCacheMatrix <- function(x = matrix()) {
         
         # set matrix inverse
         setInverse <- function(s){
-                                
-                
                 xs <<- s
         }
         
